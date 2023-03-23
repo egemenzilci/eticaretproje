@@ -1,0 +1,125 @@
+@media screen and (max-width: 1200px) {
+
+    .menu-container {
+
+        display: none;
+    }
+
+    .kartquer {
+
+        width: 19rem !important;
+        margin-top: 10px !important;
+    }
+
+    .aramacubugu {
+
+        width: 450px;
+        left: 0;
+    }
+}
+
+@media screen and (max-width: 992px) {
+
+    .hero-text h1 {
+
+        font-size: 50px;
+    }
+
+    .menu-container {
+
+        display: none;
+    }
+
+    .appstore {
+
+        display: none;
+    }
+
+    .aramacubugu {
+
+        width: 350px;
+        left: 0;
+    }
+
+}
+
+@media screen and (max-width: 767px) {
+
+    .menu-container {
+
+        display: none;
+    }
+
+    .hero-text h1 {
+
+        font-size: 30px;
+    }
+
+    .cubuk {
+
+        width: auto;
+    }
+
+    .hizmet-quer {
+
+        display: flex;
+        flex-wrap: wrap;
+        flex-direction: column;
+    }
+
+    .container-resim {
+
+        height: 300px;
+    }
+
+    .showcase-description {
+
+        width: 100%;
+        text-align: center;
+    }
+
+    .all-services-list {
+
+        column-count: 2;
+    }
+
+    #hayat {
+
+        text-align: center;
+    }
+
+    #hayat h4 {
+
+        margin-left: 160px;
+    }
+
+    .aramabutonu {
+
+        width: auto;
+    }
+
+    #footer-bilgi {
+
+        text-align: center;
+    }
+
+    .aramacubugu {
+
+        width: 300px;
+        left: -10%;
+    }
+
+}
+
+@media screen and (min-width: 1200px) {
+    
+    #navopen {
+
+        display: none;
+    }
+
+    .kategoriler {
+
+        max-width: 1330px !important;
+    }
+}
